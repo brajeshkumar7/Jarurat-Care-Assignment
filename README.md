@@ -116,26 +116,6 @@ The chatbot **clearly states:**
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 16+
-- Git (optional)
-
-### Setup (30 seconds)
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173/` in your browser.
-
-### Test
-1. **Form:** Fill patient support form and submit
-2. **Chatbot:** Click 💬 button and ask "What about my fever?"
-3. **Check Console:** Open F12 → Console to see form data
-
----
 
 ## 📦 Project Structure
 
@@ -176,21 +156,6 @@ src/
 
 ---
 
-## 🌐 Deployment
-
-### Deploy to Vercel (Easiest)
-
-1. Push code to GitHub
-2. Go to https://vercel.com
-3. Import your GitHub repository
-4. Click "Deploy"
-5. Live in 1-2 minutes!
-
-**Your Live URL:** `https://your-app.vercel.app`
-
-Auto-deploys on every GitHub push.
-
----
 
 ## 🔧 Customization
 

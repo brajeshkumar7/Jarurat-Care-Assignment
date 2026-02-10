@@ -87,10 +87,6 @@ Your app is live at: `https://your-project.vercel.app`
 3. Data is logged to browser console (Ctrl+Shift+K)
 4. Success message appears
 
-**To store form data:**
-- See `DEPLOYMENT.md` for backend integration
-
----
 
 ## Chatbot Rules (Current)
 
