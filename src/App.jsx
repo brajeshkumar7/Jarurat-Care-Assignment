@@ -38,7 +38,7 @@ function App() {
               <h4 className="font-bold text-lg mb-4">Contact Us</h4>
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li>📧 support@healthcarengo.org</li>
-                <li>📱 +1-800-HEALTH-1</li>
+                <li>📱 +91-800-HEALTH-1</li>
                 <li>⏰ Mon-Fri, 9 AM - 6 PM IST</li>
               </ul>
             </div>
